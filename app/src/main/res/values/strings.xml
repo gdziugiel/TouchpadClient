@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Touchpad Client</string>
+    <string name="polacz">Połącz</string>
+    <string name="lewy">Lewy</string>
+    <string name="prawy">Prawy</string>
+    <string name="srodkowy">Środkowy</string>
+    <string name="wstecz">Wstecz</string>
+    <string name="rozdzielczoscEkranu">Rozdzielczość ekranu</string>
+    <string name="pozycjaKursora">Pozycja kursora</string>
+    <string name="nazwaAdresIpServera">Nazwa lub adres IP</string>
+    <string name="serwer">Serwer</string>
+    <string name="puste">0</string>
+    <string name="portLbl">Port serwera</string>
+    <string name="portVal">49152</string>
+    <string name="oAplikacji">O aplikacji</string>
+    <string name="ip">Nazwa lub IP</string>
+    <string name="rozdzielczosc">%d x %d</string>
+    <string name="pozycja">x: %d | y: %d</string>
+    <string name="oAutorzeLbl">Autor</string>
+    <string name="oAutorzeVal">Grzegorz Dziugieł\nWydział Informatyki\nZachodnipomorski Uniwersytet Technologiczny w Szczecinie</string>
+    <string name="oAplikacjiLbl">O aplikacji</string>
+    <string name="oAplikacjiVal">Apliakcja jest praca inżynierską.\nAplikacja Touchpad Client umżliwia sterowanie kursorem\nmyszy komputera za pomocą telefonu.</string>
+</resources>
